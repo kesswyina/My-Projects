@@ -1,0 +1,55 @@
+header{
+    background-color:#DEB5DA;
+    padding:15px;
+}
+
+nav a {
+    text-decoration:none;
+    background-color: #A19595;
+    padding: 10px;
+    border-radius: 15px;
+    margin-right: 15px;
+    color: black;
+}
+
+
+.main_title {
+    text-align: center;
+    color:#A19595;
+}
+
+.project_title {
+    background-color: #A19595;
+    color:#DEB5DA;
+    padding:15px;
+    border-radius: 15px; 
+}
+
+.project_image {
+    width:50px;
+    border-radius: 50px;
+}
+
+.project_description {
+    font-size:12px;
+    border-radius: 15px;
+    border: 2 px dashed #A19595;
+    padding: 15px;
+}
+    
+    .project_button {
+        text-decoration: none;
+        color: black;
+        background-color: #DEB5DA;
+        margin-right: 15px;
+        border-radius: 15px;
+        padding-left: 10px;
+        padding-top: 8px;
+        padding-right: 10px;
+        padding-bottom: 8px;
+        text-align: center;
+    }
+
+footer{
+    background-color:bisque;
+}
